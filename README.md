@@ -1,3 +1,13 @@
+# Notion Clone App
+
+## from YouTube Tutorial video - https://www.youtube.com/watch?v=A3l6YYkXzzg&t=442s
+
+### Uses the following technologies
+
+1. Next JS
+2. Supabase
+3. Drizzle (ORM)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
